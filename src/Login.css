@@ -1,7 +1,7 @@
 .login{
     display: grid;
     place-items: center;
-    height: 100vh;
+    height: calc(100vh-38px);
 }
 
 .login > div > img {
